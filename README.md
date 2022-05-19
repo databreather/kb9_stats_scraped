@@ -12,3 +12,5 @@
 * npxG(non-penalty expected goals)
 * xGBuildup(expected goals from the player's involvement)
 * xGChain(expected goals from the player's all around attacking involvements)
+
+### This dataset can be used for data analysis purposes, data visualization to draw trends and insights.
